@@ -4,3 +4,6 @@ test5.py: kode sensor ultrasonic mengirim data ke email dengan raspberry
 
 
 progress3: kode untuk report terakhir
+
+
+Progress 4: kode untuk sensor maxbotix
